@@ -17,7 +17,7 @@ The best book on the subject for many decades was [Compilers: Principles, Techni
 Write a function that takes a string `target` and returns all tokens that start with `prefix` and end with `suffix`, inclusive, and returns a list of
 items that match.
 
-Add `tokenizer.pd` and add the function as stubbed.
+Add `tokenizer.py` and add the function as stubbed.
 
 ```python
 tokenizer(target, prefix, suffix):
